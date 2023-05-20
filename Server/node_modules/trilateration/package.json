@@ -1,0 +1,10 @@
+{
+  "name": "trilateration",
+  "version": "0.0.1",
+  "description": "Node module performing trilateration calculations.",
+  "main": "./index.js",
+  "repository": "git://github.com/philplckthun/trilateration.git",
+  "dependencies": {},
+  "author": "Phil Plückthun <gadschon@gmail.com>",
+  "readmeFilename": "README.md"
+}
